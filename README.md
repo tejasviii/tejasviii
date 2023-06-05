@@ -1,6 +1,6 @@
 <img  alt="Coding" width="1500" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png">
 <br />
-<h1 align="center">🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈 __Hi I am Tejasvi🧑🏻‍💻, I am BackEnd Developer💻 and DSA Problem Solver💪🏻__ 🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈</h1>
+<h1 align="center">🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈 __Hi I am Tejasvi🧑🏻‍💻, I am BackEnd Developer💻 and DSA Problem Solver💪🏻__ 🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈</h1>
 <h3 align="center">I'm a passionate BackEnd developer from India 🇮🇳</h3>
 
 <img  alt="Coding" width="1200" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
