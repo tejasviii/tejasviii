@@ -1,8 +1,9 @@
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png">
+<img  alt="Coding" width="1500" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png">
+<br />
 <h1 align="center">🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈 __Hi I am Tejasvi🧑🏻‍💻, I am BackEnd Developer💻 and DSA Problem Solver💪🏻__ 🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈</h1>
 <h3 align="center">I'm a passionate BackEnd developer from India 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img  alt="Coding" width="1200" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasviii&label=Profile%20views&color=0e75b6&style=flat" alt="tejasviii" /> </p>
 
